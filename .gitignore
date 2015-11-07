@@ -1,9 +1,6 @@
 .gradle
-build
-.classpath
-.project
-*.iml
 .idea
+.iml
 /build/
 /iddd_agilepm/build/
 /iddd_agilepm/.classpath
